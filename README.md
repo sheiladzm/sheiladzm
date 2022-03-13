@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Sheila.
+- 🌱 I’m currently learning:
+  - Java
+  - HTML/CSS/Javascript
+  - C#
+- 📫 How to reach me:
+  - hello@sheiladiezmo.com
+  - https://www.linkedin.com/in/sheiladiezmo/
