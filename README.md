@@ -6,3 +6,4 @@
 - 📫 How to reach me:
   - hello@sheiladiezmo.com
   - https://www.linkedin.com/in/sheiladiezmo/
+  - www.sheiladiezmo.com
