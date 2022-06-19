@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning:
   - Java
   - HTML/CSS/Javascript
-  - C#
+  - React
 - 📫 How to reach me:
   - hello@sheiladiezmo.com
   - https://www.linkedin.com/in/sheiladiezmo/
