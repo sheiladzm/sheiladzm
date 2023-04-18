@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Sheila.
-- 🌱 I’m currently learning:
+- 🌱 I’m currently working with:
   - Java
-  - HTML/CSS/Javascript
+  - Typescript
   - React
-- 📫 How to reach me:
-  - hello@sheiladiezmo.com
-  - https://www.linkedin.com/in/sheiladiezmo/
-  - www.sheiladiezmo.com 
 - Let's connect!
